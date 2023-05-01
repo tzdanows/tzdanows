@@ -9,13 +9,13 @@
 - 🔭 I’m currently working on a tft analytics tool, other projects, & completing more leetcode.
 - 🌱 Learning Scala, Apache Spark, & Rust.
 - ⛱️ In my free time, I code fun stuff, I build keyboards, play esports games, organize keyboard meetups, and row/bike.
+- 📫 You can reach me on: 
 
+[![Gmail](https://img.shields.io/badge/-tom.zdan9850@gmail.com-ad1f1c?style=plastic&logo=Gmail&logoColor=white)](mailto:tom.zdan9850@gmail.com)
+[![Discord](https://img.shields.io/badge/-PRIME%230001-blue?style=plastic&logo=Discord&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/-@Trollbyte47-1c99e6?style=plastic&logo=Twitter&logoColor=white)](twitter.com/trollbyte47)
+[![Linkedin](https://img.shields.io/badge/-tomzdanowski-0961b8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tom-zdanowski/)
 ---
-[![Gmail](https://img.shields.io/badge/-tom.zdan9850@gmail.com-ad1f1c?style=social&logo=Gmail&logoColor=red)](mailto:tom.zdan9850@gmail.com)
-[![Discord](https://img.shields.io/badge/-PRIME%230001-blue?style=social&logo=Discord&logoColor=blue)]()
-[![Twitter](https://img.shields.io/badge/-@Trollbyte47-1c99e6?style=social&logo=Twitter&logoColor=1c99e6)](twitter.com/trollbyte47)
-[![Linkedin](https://img.shields.io/badge/-Tom%20Zdanowski-0961b8?style=social&logo=Linkedin&logoColor=0961b8)](https://www.linkedin.com/in/tom-zdanowski/)
-<br>
 
 <h1 align="center">Technologies Used</h1>
 
