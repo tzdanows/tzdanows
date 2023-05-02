@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Tom</h1>
-<h3 align="center">A Java developer from Chicago with experience in the technologies listed below.</h3>
+<h3 align="center">A Java developer from Chicago with some experience in the technologies listed below.</h3>
 
 <br>
 
