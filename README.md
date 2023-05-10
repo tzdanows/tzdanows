@@ -29,7 +29,7 @@
 ![Typescript](https://img.shields.io/badge/-typescript-3178c6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=555)
 ![Html](https://img.shields.io/badge/-html-d84924?logo=html5&logoColor=white&style=for-the-badge&labelColor=555)
 ![Css](https://img.shields.io/badge/-css-2449d8?logo=css3&logoColor=white&style=for-the-badge&labelColor=555)
-![Rust](https://img.shields.io/badge/-rust-343a40?logo=rust&logoColor=white&style=for-the-badge&labelColor=555)
+![Go](https://img.shields.io/badge/-go-343a40?logo=go&logoColor=white&style=for-the-badge&labelColor=555)
 
 ![PL](https://img.shields.io/badge/-Frameworks%20/%20Libraries-555?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/-Angular-dd0031?logo=angular&logoColor=white&style=for-the-badge&labelColor=555)
