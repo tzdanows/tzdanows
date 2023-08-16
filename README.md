@@ -6,9 +6,9 @@
 - I'm currently looking for a full time software role, I'd appreciate any help with finding a great fit! 
 - 💼 Former application developer at a low code company.
 - 🎓 DePaul University Computer Science Graduate.
-- 🔭 I’m currently working on a tft analytics tool, other projects, & completing more leetcode.
-- 🌱 Learning Scala, Apache Spark, & Rust.
-- ⛱️ In my free time, I code fun stuff, I build keyboards, play esports games, organize keyboard meetups, and row/bike.
+- 🔭 I’m currently working on a tft analytics tool, other projects, & daily leetcode.
+- 🌱 Learning Scala, Apache Spark, & Go.
+- ⛱️ In my free time, I code fun stuff, build keyboards, play esports games, organize keyboard meetups, and row/bike.
 - 📫 You can reach me on: 
 
 [![Gmail](https://img.shields.io/badge/-tom.zdan9850@gmail.com-ad1f1c?style=plastic&logo=Gmail&logoColor=white)](mailto:tom.zdan9850@gmail.com)
