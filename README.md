@@ -1,9 +1,10 @@
 <h1 align="center">👋 Hello, I'm Tom</h1>
 
-- 🎓 DePaul University computer science graduate
-- 💼 Former application developer @ Low Code Company 
+- 🎓 DePaul University computer science graduat3
+- 💼 Former application developer
 - 🔭 Currently working on a [tft analytics tool](https://github.com/tzdanows/tft), [twote](https://github.com/wcygan/twote), & daily programming challenges.
 - 🌱 Currently advancing my knowledge on: Go, Docker, K8S, Scala, & Spring Boot
+- 📚 Reading [Designing Data-Intensive Applications](https://books.google.com/books/about/Designing_Data_Intensive_Applications.html?id=zFheDgAAQBAJ&source=kp_book_description)
 - 👋 Enjoyer of keyboards, rowing, strategy games, and hackathons
 
 <h3> 📫 You can reach me on: </h3> 
