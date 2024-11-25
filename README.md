@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello, I'm Tom</h1>
 
-- 🎓 DePaul University computer science graduate
-- 🔭 Building [tft analytics tool](https://github.com/tzdanows/tft), [twote](https://github.com/wcygan/twote), 
-- 🌱 Currently advancing my knowledge on: Go, Docker, K8S, gRPC + protobuf, Spring Boot and Scala
+- 🎓 DePaul University computer science grad
+- 🔭 Building [Flock](https://github.com/flock-eng/flock), [Gamified Leetcode](https://github.com/tzdanows/gamified-leetcode), and other projects
+- 🌱 Currently advancing my knowledge on: Go, Docker, K8S, gRPC + protobuf, & Spring Boot
 - 📚 Reading [Designing Data-Intensive Applications](https://books.google.com/books/about/Designing_Data_Intensive_Applications.html?id=zFheDgAAQBAJ&source=kp_book_description)
 - 👋 Enjoyer of keyboards, rowing, strategy games, and hackathons
 
